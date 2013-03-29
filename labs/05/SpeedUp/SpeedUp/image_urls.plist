@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>http://trailers.apple.com/trailers/disney/ozthegreatandpowerful/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/wb/jackthegiantslayer/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/universal/identitythief/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/independent/deadmandown/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/summit/snitch/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/independent/21andover/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/independent/safehaven/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/weinstein/silverliningsplaybook/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/weinstein/escapefromplanetearth/images/poster-xlarge.jpg</string>
+	<string>http://trailers.apple.com/trailers/independent/thelastexorcismpartii/images/poster-xlarge.jpg</string>
+</array>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Birds</key>
+	<dict>
+		<key>Flexing Bird</key>
+		<string>flexbird.jpg</string>
+		<key>Keytar Bird</key>
+		<string>keytarbird.jpg</string>
+		<key>Posing Bird</key>
+		<string>posebird.jpg</string>
+		<key>Darth Vader Bird</key>
+		<string>vaderbird.jpg</string>
+		<key>Walking Bird</key>
+		<string>walkbird.jpg</string>
+	</dict>
+	<key>Cats</key>
+	<dict>
+		<key>Back Cat</key>
+		<string>backcat.jpg</string>
+		<key>Laying Cat</key>
+		<string>laycat.jpg</string>
+		<key>Playing Cat</key>
+		<string>playcat.jpg</string>
+		<key>Sad Cat</key>
+		<string>sadcat.jpg</string>
+		<key>Sleepy Cat</key>
+		<string>sleepycat.jpg</string>
+		<key>Streching Cat</key>
+		<string>stretchcat.jpg</string>
+	</dict>
+	<key>Coffee</key>
+	<dict>
+		<key>Chocolate Coffee</key>
+		<string>chocolatecoffee.jpg</string>
+		<key>Heart Coffee</key>
+		<string>heartcoffee.jpg</string>
+		<key>Leaf Coffee</key>
+		<string>leafcoffee.jpg</string>
+		<key>Plain Coffee</key>
+		<string>saucercoffee.jpg</string>
+	</dict>
+</dict>
+</plist>
